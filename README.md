@@ -9,6 +9,6 @@ https://github.com/broedsels/K1830-update/releases
 Place the file on an USB stick and drag it to your machines desktop.
 Then make it executable and run.
 
-<img src="Updater.JPG">  <img src="Permissions.JPG">
+<img src="Updater.JPG">  <img src="Permissions2.JPG">
 
 
